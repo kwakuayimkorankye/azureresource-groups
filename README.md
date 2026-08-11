@@ -3,7 +3,7 @@
 </p>
 
 <h1>Microsoft Azure - Creating Resource Groups</h1>
-This section will demonstrate how to create and delete a resource in Microsoft Azure.<br />
+This section will demonstrate how to create and delete a resource in Microsoft Azure. Resource Groups house and store data for your Azure resources and projects. It is a very crucial step to understand how to both create and delete Resource Groups.<br />
 
 <h2>What is needed</h2>
 

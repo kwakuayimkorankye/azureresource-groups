@@ -28,12 +28,11 @@ Creating a Resource Group is simple. In the search bar, type "Resource Group" to
 <p>
 After searching, press Create Resource Group in the middle. 
 </p>
-<h2>Step Four: Logging into Azure</h2>
+<h2>Step Four: Typing in the name of the Resource Group</h2>
 
 <img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/05azure.PNG" alt="Login"/>
 <p>
-First, we would need to log into Azure directly. If you have not already, create an account with Azure.
-</p>
+The name you choose is important for Resource Groups. Please always deal with something related to the project at hand so you will not forget. In the input box labeled "Resource Group name", enter a name of your choice. </p>
 <h2>Step Five: Logging into Azure</h2>
 
 <img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/06azure.PNG" alt="Login"/>

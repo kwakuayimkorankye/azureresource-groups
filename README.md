@@ -15,31 +15,26 @@ This section will demonstrate how to create and delete a resource in Microsoft A
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
-<h2>Step Two: Logging into Azure</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/02azure.PNG" height="80%" width="80%" alt="Login"/>
-<p>
-First, we would need to log into Azure directly. If you have not already, create an account with Azure.
-</p>
-<h2>Step Three: Logging into Azure</h2>
+<h2>Step Two: Getting Started</h2>
 
 <img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/03azure.PNG" height="80%" width="80%" alt="Login"/>
 <p>
-First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+Creating a Resource Group is simple. In the search bar, type "Resource Group" to get started. 
 </p>
-<h2>Step Four: Logging into Azure</h2>
+<h2>Step Three: Creating a Resource Group</h2>
 
 <img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/04azure.PNG" height="80%" width="80%" alt="Login"/>
 <p>
-First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+After searching, press Create Resource Group in the middle. 
 </p>
-<h2>Step Five: Logging into Azure</h2>
+<h2>Step Four: Logging into Azure</h2>
 
 <img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/05azure.PNG" height="80%" width="80%" alt="Login"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
-<h2>Step Six: Logging into Azure</h2>
+<h2>Step Five: Logging into Azure</h2>
 
 <img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/06azure.PNG" height="80%" width="80%" alt="Login"/>
 <p>

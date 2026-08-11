@@ -18,13 +18,13 @@ First, we would need to log into Azure directly. If you have not already, create
 
 <h2>Step Two: Getting Started</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/03azure.PNG" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/03azure.PNG" alt="frontpage"/>
 <p>
 Creating a Resource Group is simple. In the search bar, type "Resource Group" to get started. 
 </p>
 <h2>Step Three: Creating a Resource Group</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/04azure.PNG" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/04azure.PNG" alt="creating-group"/>
 <p>
 After searching, press Create Resource Group in the middle. 
 </p>

@@ -2,14 +2,14 @@
 <img alt="Microsoft Azure" src="https://github.com/user-attachments/assets/2685c98a-c05d-4953-92e6-964e46c91008" height="40%" width="40%"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This section will demonstrate the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Microsoft Azure - Creating Resource Groups</h1>
+This section will demonstrate how to create and delete a resource in Microsoft Azure.<br />
 
-<h2>Demostration</h2>
+<h2>What is needed</h2>
 
-- ### OSOSO
+- ### Azure Subscription
 
-<h2>Environments and Technologies Used</h2>
+<h2>Step One: Logging into Azure</h2>
 
  -  osTicket
 

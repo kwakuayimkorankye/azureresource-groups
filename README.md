@@ -8,12 +8,73 @@ This section will demonstrate how to create and delete a resource in Microsoft A
 <h2>What is needed</h2>
 
 - ### Azure Subscription
-
-<h2>Step One: Logging into Azure</h2>
 <br />
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/01azure.PNG" height="80%" width="80%" alt="Login"/>
+<h2>Step One: Logging into Azure</h2>
 
- -  osTicket
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/01azure.PNG" height="80%" width="80%" alt="Login"/>
+<p>
+First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+</p>
+<h2>Step Two: Logging into Azure</h2>
+
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/02azure.PNG" height="80%" width="80%" alt="Login"/>
+<p>
+First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+</p>
+<h2>Step Three: Logging into Azure</h2>
+
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/03azure.PNG" height="80%" width="80%" alt="Login"/>
+<p>
+First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+</p>
+<h2>Step Four: Logging into Azure</h2>
+
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/04azure.PNG" height="80%" width="80%" alt="Login"/>
+<p>
+First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+</p>
+<h2>Step Five: Logging into Azure</h2>
+
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/05azure.PNG" height="80%" width="80%" alt="Login"/>
+<p>
+First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+</p>
+<h2>Step Six: Logging into Azure</h2>
+
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/06azure.PNG" height="80%" width="80%" alt="Login"/>
+<p>
+First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+</p>
+<h2>Step Seven: Logging into Azure</h2>
+
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/07azure.PNG" height="80%" width="80%" alt="Login"/>
+<p>
+First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+</p>
+<h2>Step Eight: Logging into Azure</h2>
+
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/08azure.PNG" height="80%" width="80%" alt="Login"/>
+<p>
+First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+</p>
+<h2>Step Nine: Logging into Azure</h2>
+
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/09azure.PNG" height="80%" width="80%" alt="Login"/>
+<p>
+First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+</p>
+<h2>Step Ten: Logging into Azure</h2>
+
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/10azure.PNG" height="80%" width="80%" alt="Login"/>
+<p>
+First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+</p>
+<h2>Step Eleven: Logging into Azure</h2>
+
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/11azure.PNG" height="80%" width="80%" alt="Login"/>
+<p>
+First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+</p>
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.

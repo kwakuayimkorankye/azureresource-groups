@@ -10,6 +10,8 @@ This section will demonstrate how to create and delete a resource in Microsoft A
 - ### Azure Subscription
 
 <h2>Step One: Logging into Azure</h2>
+<br />
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/01azure.PNG" height="80%" width="80%" alt="Login"/>
 
  -  osTicket
 

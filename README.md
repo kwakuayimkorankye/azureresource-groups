@@ -11,62 +11,62 @@ This section will demonstrate how to create and delete a resource in Microsoft A
 <br />
 <h2>Step One: Logging into Azure</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/01azure.PNG" height="80%" width="80%" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/01azure.PNG"  alt="Login"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
 
 <h2>Step Two: Getting Started</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/03azure.PNG" height="80%" width="80%" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/03azure.PNG" alt="Login"/>
 <p>
 Creating a Resource Group is simple. In the search bar, type "Resource Group" to get started. 
 </p>
 <h2>Step Three: Creating a Resource Group</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/04azure.PNG" height="80%" width="80%" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/04azure.PNG" alt="Login"/>
 <p>
 After searching, press Create Resource Group in the middle. 
 </p>
 <h2>Step Four: Logging into Azure</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/05azure.PNG" height="80%" width="80%" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/05azure.PNG" alt="Login"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
 <h2>Step Five: Logging into Azure</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/06azure.PNG" height="80%" width="80%" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/06azure.PNG" alt="Login"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
 <h2>Step Seven: Logging into Azure</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/07azure.PNG" height="80%" width="80%" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/07azure.PNG" alt="Login"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
 <h2>Step Eight: Logging into Azure</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/08azure.PNG" height="80%" width="80%" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/08azure.PNG" alt="Login"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
 <h2>Step Nine: Logging into Azure</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/09azure.PNG" height="80%" width="80%" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/09azure.PNG" alt="Login"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
 <h2>Step Ten: Logging into Azure</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/10azure.PNG" height="80%" width="80%" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/10azure.PNG" alt="Login"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
 <h2>Step Eleven: Logging into Azure</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/11azure.PNG" height="80%" width="80%" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/11azure.PNG" alt="Login"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>

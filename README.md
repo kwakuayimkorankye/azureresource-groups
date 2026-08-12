@@ -11,57 +11,50 @@ This section will demonstrate how to create and delete a resource in Microsoft A
 <br />
 <h2>Step One: Logging into Azure</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/01azure.PNG"  alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/01azure.PNG"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
 
 <h2>Step Two: Getting Started</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/03azure.PNG" alt="frontpage"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/03azure.PNG"/>
 <p>
 Creating a Resource Group is simple. In the search bar, type "Resource Group" to get started. 
 </p>
 <h2>Step Three: Creating a Resource Group</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/04azure.PNG" alt="creating-group"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/04azure.PNG"/>
 <p>
 After searching, press Create Resource Group in the middle. 
 </p>
 <h2>Step Four: Typing in the name of the Resource Group</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/06azure.PNG" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/06azure.PNG"/>
 <p>
 The name you choose is important for Resource Groups. Please always deal with something related to the project at hand so you will not forget. In the input box labeled "Resource Group name", enter a name of your choice. The region is where the Resource Group will be localized, so make sure to remember the Region of your choosing. If not done, certain Subscriptions will not cooperate with the Resource Group you created.</p>
 
 <h2>Step Five: Establishing the Group</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/07azure.PNG" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/07azure.PNG"/>
 <p>
 After you input both the name and the region, press "Review + Create" to finish setting up the Resource Group. You will see a prompt at the top right stating the group is being created. Wait for it to be created. When done, your screen should look similar to this: 
 </p>
 <img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/09azure.PNG" alt="Login"/>
 <br />
-<h2>Step Six: </h2>
-
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/10azure.PNG" alt="Login"/>
 <p>
-First, we would need to log into Azure directly. If you have not already, create an account with Azure.
+You now understand how to create Resource Groups; however, it is still useful to understand how to remove them. Unused Resource Groups incur costs for the items they house, so this next section will teach you to remove them as well.  
 </p>
-<h2>Step Ten: Logging into Azure</h2>
+<h2>Deleting Resource Group Step One: </h2>
+
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/10azure.PNG"/>
+<p>
+In the Resource Manager, select the Resource Group you wish to delete and press the three dots next to the word "Open Query"
+</p>
+<h2>Step Two</h2>
 
 <img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/11azure.PNG" alt="Login"/>
 <p>
-First, we would need to log into Azure directly. If you have not already, create an account with Azure.
-</p>
-<h2>Step Eleven: Logging into Azure</h2>
-
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/11azure.PNG" alt="Login"/>
-<p>
-First, we would need to log into Azure directly. If you have not already, create an account with Azure.
-</p>
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To fully delete it, first copy the name of the Resource Group in question and paste it in the textbox. Make sure there are no spelling mistakes! Keep it the same as the original Resource Group name. Press Delete and stay until you are sure the Resource Group is completely deleted. 
 </p>
 <br />

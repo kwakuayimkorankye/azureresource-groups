@@ -40,17 +40,17 @@ The name you choose is important for Resource Groups. Please always deal with so
 <p>
 After you input both the name and the region, press "Review + Create" to finish setting up the Resource Group. You will see a prompt at the top right stating the group is being created. Wait for it to be created. When done, your screen should look similar to this: 
 </p>
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/08azure.PNG" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/09azure.PNG" alt="Login"/>
 <br />
 <h2>Step Six: </h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/09azure.PNG" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/10azure.PNG" alt="Login"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
 <h2>Step Ten: Logging into Azure</h2>
 
-<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/10azure.PNG" alt="Login"/>
+<img src="https://github.com/kwakuayimkorankye/azureresource-groups/blob/main/11azure.PNG" alt="Login"/>
 <p>
 First, we would need to log into Azure directly. If you have not already, create an account with Azure.
 </p>
